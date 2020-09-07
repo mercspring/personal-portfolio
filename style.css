@@ -4,66 +4,73 @@ body{
     font-family: 'Nova Flat', cursive;
     position: relative;
 }
+
 .nav-bg{
     background: #e8d267;
 
 }
-.img-head{
-    display: inline-block;
-    width: 100%;
-    height: auto;
-    max-height: 40px;
+
+.navbar-brand{
+    padding:0px;
+    margin:0px;
 }
+
 .header-bg{
     background-image: url("./photo.png");
-    /* background-size: ;  */
     background-repeat: no-repeat;
     padding-top: 0px;
     padding-bottom: 0px;
     padding-left: 4px;
     padding-right: 4px;
 }
-.nav-link{
-    color:red;
+
+.img-head{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    max-height: 40px;
 }
+
+.container{
+    margin-top: 40px;
+    margin-bottom:8vh;
+}
+
 .aboutme-img{
     float:left;
     margin: 10px 10px 0px 0px;
     width: auto;
     height: 150px;
 }
+
 .gallery .row > div{
     padding: 5px;
 
 }
-.navbar-brand{
-    padding:0px;
-    margin:0px;
-}
+
+
 a > div > span{
     color:#5db7a9;
     font-size: 14pt;
     display: block;
     line-height:1;
 }
+
 a > div{
     text-align: center;
     width: 100%;
     height: 40px;
 }
-.first-name{
-}
+
 .last-name{
     padding-left: 60%;
 }
-.container{
-    margin-top: 40px;
-    margin-bottom:8vh;
-}
+
 .btn-style{
     background-image: linear-gradient(#4a2971,#574781);
     border: none;
 }
+
 footer{
     color: white;
     text-align: center;
@@ -74,15 +81,15 @@ footer{
    position: fixed;
    bottom: 0;
 }
+
+footer > p{
+    margin:0;
+}
+
 .copyright{
     font-size: 8pt;
 }
 
 .socialLinks > a{
     color:white;
-}
-footer > p{
-    margin:0;
-    
-
 }
