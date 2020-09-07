@@ -63,9 +63,24 @@ a > div{
     border: none;
 }
 footer{
+    color: white;
+    text-align: center;
+    vertical-align: center;
     background-image: linear-gradient(#4a2971,#574781);
     width: 100%;
-   height: 5vh; 
+   height: 4ch; 
    position: fixed;
    bottom: 0;
+}
+.copyright{
+    font-size: 8pt;
+}
+
+.socialLinks > a{
+    color:white;
+}
+footer > p{
+    margin:0;
+    
+
 }
