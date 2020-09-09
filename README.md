@@ -2,7 +2,7 @@
 
 Created a three page, mobile responsive, personal portfolio.
 
-## Highlights of Technologies used: 
+## Highlights of Technologies used
 * Bootstrap - utilized the grid layout to acheieve the mobile responsive design
 * HTML - used semantic headings to improve acessabilty
 
