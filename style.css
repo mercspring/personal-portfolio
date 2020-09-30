@@ -16,7 +16,7 @@ body{
 }
 
 .header-bg{
-    background-image: url("./photo.png");
+    background-image: url("./images/header_photo.png");
     background-repeat: no-repeat;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -92,4 +92,24 @@ footer > p{
 
 .socialLinks > a{
     color:white;
+}
+
+.card{
+    background: inherit;
+    border: none;
+}
+
+.card > img{
+    max-width: 350px;
+}
+
+
+.card-body > a{
+    color: white;
+}
+
+.card-body{
+    border-top: 1px solid black;
+    padding-top: 10px;
+    margin-top: 10px;
 }

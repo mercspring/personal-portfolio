@@ -1,5 +1,4 @@
 # personal-portfolio
-
 Created a three page, mobile responsive, personal portfolio.
 
 ## Highlights of Technologies used
