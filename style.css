@@ -114,7 +114,7 @@ footer > p{
     margin-top: 10px;
 }
 
-#email:hover::after{
+#email:hover:after{
     content: " To combat scraping, the @ symbol isn't the real @ symbol";
     opacity: 50%;
 }
