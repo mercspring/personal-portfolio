@@ -118,3 +118,7 @@ footer > p{
     content: " To combat scraping, the @ symbol isn't the real @ symbol";
     opacity: 50%;
 }
+
+.bold{
+    font-weight: bold;
+}
